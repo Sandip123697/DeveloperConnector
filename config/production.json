@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://sandip123:sandip123@sandipdevlup.mzg2d.mongodb.net/test?retryWrites=true&w=majority",
+     
+    "jwtSecret":"mysecrettoken" ,
+    "githubClientId": "2bb4ba33fa962cbcfe29",
+    "githubSecret": "eee91d58fa967df7d622b56ee4066e20f77a2284"
+}
