@@ -1,7 +1,7 @@
 # MERN stack based DeveloperConnector
 A MERN stack based web application to connect developers from various domains.
 Made under the course Software Engineering
-link : https://powerful-plains-48555.herokuapp.com/
+
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/77280511/183736960-9b7b9b9a-283f-433b-872a-62ac28bd6c9e.png)
